@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\surya.c.urs\\source\\repos\\ContentSecurityPolicy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F1F39-C0FD-4EC2-AED6-C9073CC3E917}|ContentSecurityPolicyDemo\\ContentSecurityPolicyDemo.csproj|c:\\users\\surya.c.urs\\source\\repos\\contentsecuritypolicy\\contentsecuritypolicydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F1F39-C0FD-4EC2-AED6-C9073CC3E917}|ContentSecurityPolicyDemo\\ContentSecurityPolicyDemo.csproj|solutionrelative:contentsecuritypolicydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F1F39-C0FD-4EC2-AED6-C9073CC3E917}|ContentSecurityPolicyDemo\\ContentSecurityPolicyDemo.csproj|c:\\users\\surya.c.urs\\source\\repos\\contentsecuritypolicy\\contentsecuritypolicydemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A0F1F39-C0FD-4EC2-AED6-C9073CC3E917}|ContentSecurityPolicyDemo\\ContentSecurityPolicyDemo.csproj|solutionrelative:contentsecuritypolicydemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F1F39-C0FD-4EC2-AED6-C9073CC3E917}|ContentSecurityPolicyDemo\\ContentSecurityPolicyDemo.csproj|c:\\users\\surya.c.urs\\source\\repos\\contentsecuritypolicy\\contentsecuritypolicydemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F1F39-C0FD-4EC2-AED6-C9073CC3E917}|ContentSecurityPolicyDemo\\ContentSecurityPolicyDemo.csproj|solutionrelative:contentsecuritypolicydemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F1F39-C0FD-4EC2-AED6-C9073CC3E917}|ContentSecurityPolicyDemo\\ContentSecurityPolicyDemo.csproj|c:\\users\\surya.c.urs\\source\\repos\\contentsecuritypolicy\\contentsecuritypolicydemo\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1A0F1F39-C0FD-4EC2-AED6-C9073CC3E917}|ContentSecurityPolicyDemo\\ContentSecurityPolicyDemo.csproj|solutionrelative:contentsecuritypolicydemo\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F1F39-C0FD-4EC2-AED6-C9073CC3E917}|ContentSecurityPolicyDemo\\ContentSecurityPolicyDemo.csproj|c:\\users\\surya.c.urs\\source\\repos\\contentsecuritypolicy\\contentsecuritypolicydemo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1A0F1F39-C0FD-4EC2-AED6-C9073CC3E917}|ContentSecurityPolicyDemo\\ContentSecurityPolicyDemo.csproj|solutionrelative:contentsecuritypolicydemo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F1F39-C0FD-4EC2-AED6-C9073CC3E917}|ContentSecurityPolicyDemo\\ContentSecurityPolicyDemo.csproj|c:\\users\\surya.c.urs\\source\\repos\\contentsecuritypolicy\\contentsecuritypolicydemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A0F1F39-C0FD-4EC2-AED6-C9073CC3E917}|ContentSecurityPolicyDemo\\ContentSecurityPolicyDemo.csproj|solutionrelative:contentsecuritypolicydemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\ContentSecurityPolicy\\ContentSecurityPolicyDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContentSecurityPolicyDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\ContentSecurityPolicy\\ContentSecurityPolicyDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ContentSecurityPolicyDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T06:06:21.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\ContentSecurityPolicy\\ContentSecurityPolicyDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContentSecurityPolicyDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\ContentSecurityPolicy\\ContentSecurityPolicyDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContentSecurityPolicyDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:05:56.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\ContentSecurityPolicy\\ContentSecurityPolicyDemo\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ContentSecurityPolicyDemo\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\ContentSecurityPolicy\\ContentSecurityPolicyDemo\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ContentSecurityPolicyDemo\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-22T06:00:19.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\ContentSecurityPolicy\\ContentSecurityPolicyDemo\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ContentSecurityPolicyDemo\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\ContentSecurityPolicy\\ContentSecurityPolicyDemo\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ContentSecurityPolicyDemo\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-22T06:00:11.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\ContentSecurityPolicy\\ContentSecurityPolicyDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ContentSecurityPolicyDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\ContentSecurityPolicy\\ContentSecurityPolicyDemo\\Program.cs",
+              "RelativeToolTip": "ContentSecurityPolicyDemo\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:59:59.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\ContentSecurityPolicy\\ContentSecurityPolicyDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "ContentSecurityPolicyDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\ContentSecurityPolicy\\ContentSecurityPolicyDemo\\appsettings.json",
+              "RelativeToolTip": "ContentSecurityPolicyDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T05:59:54.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
